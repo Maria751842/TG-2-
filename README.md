@@ -22,29 +22,30 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 06/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 27/09/2023 | Concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01|  18/10/2023| Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 08/11/2023 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 29/11/2023 |Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|12/12/2023 | Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 13/03/2024 | Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_ITI100.A349.N.074.146.20241/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B902295bb-b975-4bd4-8b74-ac6c0a2cd2d2%7D&wdOrigin=TEAMS-ELECTRON.teamsSdk.openFilePreview&wdExp=TEAMS-CONTROL&web=1) | 
+|00 | 17/04/2024 | Pendente| [Ver Relatório] | 
+|01|  08/05/2024| Pendente |[Ver Relatório] | 
+|02| 29/05/2024 | Pendente |[Ver Relatório] | 
+|03| 19/05/2024 |Pendente |[Ver Relatório]  | 
+|Feira de Soluções|27/06/2024 | Pendente |[Ver Relatório]( | 
 
 
 
 
 
 # Objetivo do Projeto 🎯
-Análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa embarcadora de carga, visando:
-* Identificar gargalos e oportunidades de melhoria na distribuição de carga, considerando fatores como capacidade dos veículos e demanda dos clientes;
-* Utilizar técnicas de otimização para encontrar as rotas mais eficientes em termos de tempo e custo, levando em conta restrições como limitações de peso e tempo de entrega;
-* Ganhar produtividade diminuindo os tempos de carregamento, descarregamento e viagem.​
+Uma análise da produtividade dos veículos das empresas de transporte rodoviário, otimização da distribuição e custos de rota para:
+
+* Definir gargalos e oportunidades de melhoria na distribuição de cargas considerando fatores como capacidade dos veículos e demanda dos clientes;
+  
+* Utilizar técnicas de otimização para encontrar as rotas mais eficientes em termos de tempo e custo, tendo em conta restrições como limites de peso e prazos de entrega;
+  
+* Aumente a produtividade reduzindo os tempos de carga, descarga e deslocamento.​
 
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
-Abaixo, vídeo do Jira do projeto, contendo todas as atividades da Sprint 0.
 
-https://github.com/MariaAngeleli/API-6-semestre/assets/142457026/adc53b9a-7057-4d04-8508-3b275cade673
 
 ## Tecnologias Utilizadas :computer:
 <img width="474" alt="Sem título" src="https://github.com/MariaAngeleli/API-6-semestre/assets/144962822/46ce5a9b-f31b-41f4-be8b-14cca55412ae">
