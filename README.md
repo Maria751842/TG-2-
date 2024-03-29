@@ -1,6 +1,10 @@
 <span id="topo">
-  
-[Mood Nem Route(https://drive.google.com/file/d/1OQ23TAbrXJqLRXriiyQXwRH8PySVOViC/view?usp=drive_link)
+
+<div align="center">
+
+![Mood Nem Route](./assets/LOGO.jpg)
+
+</div>
 
 <p align="center">
     <a href="#sobre">Sobre</a>  &nbsp |&nbsp &nbsp  
@@ -8,6 +12,75 @@
     <a href="#backlogs">Backlogs, Épicos & User Stories</a> &nbsp |&nbsp &nbsp  
     <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="#equipe">Equipe</a>
-    
-     
-       
+</p>
+
+<br />
+   
+<span id="sobre">
+
+## :bookmark_tabs: Sobre o projeto
+
+A partir da apresentação do desafio apresentado pelo cliente, será desenvolvido um dashboard no Power BI demonstrando a produtividade de veiculos, de otimização de distrubuição e de custo de rotas.
+
+> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
+
+:pushpin: Status do Projeto: **Em Andamento** ⏰
+
+→ [Voltar ao topo](#topo)
+
+<br />
+
+<span id="entregas">
+
+## 🏁 Entregas de Sprints
+
+| Sprint | Previsão de Entrega     | Status | Histórico |
+|:------:|:-----------------------:|:------:|:---------:|
+| 1 | 17/04/2024 | Em Andamento ⏰ | -- |
+| 2 | 08/05/2024 | Não Inciado     | -- |
+| 3 | 29/05/2024 | Não Iniciado    | -- |
+| 4 | 19/06/2024 | Não Iniciado    | -- |
+
+→ [Voltar ao topo](#topo)
+
+<br />
+
+
+<span id="backlogs">
+
+## :dart: Backlogs, Épicos & User Stories
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologias">
+
+## 🛠️ Tecnologias
+
+As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logoColor=white&logo=visualstudiocode" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logoColor=white&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/Power_BI-blue?style=for-the-badge&logoColor=white&logo=powerbi" alt="Power BI" />
+<img src="https://img.shields.io/badge/Jira_Software-blue?style=for-the-badge&logoColor=white&logo=jira" alt="Jira Sofware" />
+<img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logoColor=white&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logoColor=white&logo=github" alt="GitHub" />
+
+
+
+→ [Voltar ao topo](#topo)
+
+<span id="equipe">
+
+## :busts_in_silhouette: Equipe
+
+|    Função     | Nome                                  | LinkedIn |
+| :-----------: | :-----------------------------------: | :------: |
+| Product Owner | Barbara                               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barbarablois) |
+| Scrum Master  | Maria Paula dos Santos                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariapaulla) |
+|   Dev Team    |
+|   Dev Team    |
+|   Dev Team    |
+|   Dev Team    |
+|   Dev Team    |
+
+→ [Voltar ao topo](#topo)
