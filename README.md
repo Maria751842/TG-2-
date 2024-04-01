@@ -77,10 +77,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | :-----------: | :-----------------------------------: | :------: |
 | Product Owner | Barbara                               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barbarablois) |
 | Scrum Master  | Maria Paula dos Santos                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariapaulla) |
-|   Dev Team    |
-|   Dev Team    |
-|   Dev Team    |
-|   Dev Team    |
-|   Dev Team    |
+|   Dev Team    | Gabriel Ferreira Caillaux dos Santos  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-ba579b210/) |
+|   Dev Team    | Jairo Corrêa Lanzirote                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-corrêa-lanzilote/)|
+|   Dev Team    | Micaella Kamezawa                     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/micaella-kamezawa-ba6aa128a/) |
+|   Dev Team    | Mirella da Fátima dos Resis           | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
+|   Dev Team    |Thalles Bruni Corrêa                   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
 → [Voltar ao topo](#topo)
