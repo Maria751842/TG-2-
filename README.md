@@ -34,6 +34,8 @@ A partir da apresentação do desafio apresentado pelo cliente, será desenvolvi
 
 ## 🏁 Entregas de Sprints
 
+Cada entrega foi realizada mediante a criação de uma tag em cada repositório, juntamente com a abertura de uma branch nesses repositórios contendo um relatório abrangente de todos os desenvolvimentos realizados naquela sprint. Veja a relação a seguir:
+
 | Sprint | Previsão de Entrega     | Status | Histórico |
 |:------:|:-----------------------:|:------:|:---------:|
 | 1 | 17/04/2024 | Em Andamento ⏰ | -- |
@@ -80,7 +82,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Gabriel Ferreira Caillaux dos Santos  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-ba579b210/) |
 |   Dev Team    | Jairo Corrêa Lanzirote                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-corrêa-lanzilote/)|
 |   Dev Team    | Micaella Kamezawa                     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/micaella-kamezawa-ba6aa128a/) |
-|   Dev Team    | Mirella da Fátima dos Resis           | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
+|   Dev Team    | Mirella da Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
 |   Dev Team    |Thalles Bruni Corrêa                   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
 → [Voltar ao topo](#topo)
