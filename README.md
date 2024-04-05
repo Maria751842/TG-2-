@@ -52,6 +52,8 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 ## :dart: Backlogs, Épicos & User Stories
 
+![Mood Nem Route](./assets/BACLOGS.jpg)
+
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
@@ -66,6 +68,10 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Jira_Software-blue?style=for-the-badge&logoColor=white&logo=jira" alt="Jira Sofware" />
 <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logoColor=white&logo=git" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logoColor=white&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/office-blue?style=for-the-badge&logoColor=white&logo=github" alt="office" />
+<img src="https://img.shields.io/badge/slack-blue?style=for-the-badge&logoColor=white&logo=github" alt="slack" />
+
+
 
 
 
@@ -77,12 +83,12 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 |    Função     | Nome                                  | LinkedIn |
 | :-----------: | :-----------------------------------: | :------: |
-| Product Owner | Barbara                               | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barbarablois) |
+| Product Owner | Barbara Cristina dos Santos Blois     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barbarablois) |
 | Scrum Master  | Maria Paula dos Santos                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariapaulla) |
 |   Dev Team    | Gabriel Ferreira Caillaux dos Santos  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-ba579b210/) |
-|   Dev Team    | Jairo Corrêa Lanzirote                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-corrêa-lanzilote/)|
+|   Dev Team    | Jairo Corrêa Lanzilote                | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-corrêa-lanzilote/)|
 |   Dev Team    | Micaella Kamezawa                     | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/micaella-kamezawa-ba6aa128a/) |
-|   Dev Team    | Mirella da Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
-|   Dev Team    |Thalles Bruni Corrêa                   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
+|   Dev Team    | Mirella de Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
+|   Dev Team    | Thalles Bruni Silva Corrêa            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
 → [Voltar ao topo](#topo)
