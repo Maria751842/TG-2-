@@ -10,6 +10,7 @@
     <a href="#sobre">Sobre</a>  &nbsp |&nbsp &nbsp  
     <a href="#entregas">Entregas</a>  &nbsp |&nbsp &nbsp  
     <a href="#backlogs">Backlogs, Épicos & User Stories</a> &nbsp |&nbsp &nbsp  
+    <a href="Planejamento">Planejamento das Sprint</a>
     <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
     <a href="#equipe">Equipe</a>
 </p>
@@ -20,7 +21,7 @@
 
 ## :bookmark_tabs: Sobre o projeto
 
-A partir da apresentação do desafio apresentado pelo cliente, será desenvolvido um dashboard no Power BI demonstrando a produtividade de veiculos, de otimização de distrubuição e de custo de rotas.
+A partir da apresentação do desafio apresentado pelo cliente, será desenvolvido uma modelagem de banco de dados em SQL, dashboard no Power Bi demostrando aplicação do método de transportes e otimização.
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
 
@@ -38,7 +39,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 | Sprint | Previsão de Entrega     | Status | Histórico |
 |:------:|:-----------------------:|:------:|:---------:|
-| 1 | 17/04/2024 | Em Andamento ⏰ | -- |
+| 1 | 17/04/2024 | Concluída  ✅   | -- |
 | 2 | 08/05/2024 | Não Inciado     | -- |
 | 3 | 29/05/2024 | Não Iniciado    | -- |
 | 4 | 19/06/2024 | Não Iniciado    | -- |
@@ -53,6 +54,33 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ## :dart: Backlogs, Épicos & User Stories
 
 ![Mood Nem Route](./assets/BACLOGS.jpg)
+
+
+## - Detalhamento da Sprint 1
+
+|Item | Planejamento | Status|
+|:---:|:-----------------------------------------:|:----:|
+|  1  |Definição das users stories                |  ✅  |
+|  2  |Implementação do projeto no GitHab         |  ✅  |
+|  3  |Implementação do projeto no Jira Software  |  ✅  |
+|  4  |Inicio da análise dos dados obtidos        |  ✅  |
+|  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
+|  6  |Inicio do relatório técnico                |  ✅  |
+
+
+## - Detalhamento da Sprint 2
+|Item | Planejamento | Status|
+|:---:|:----------------------------------------------:|:----:|
+|  1  |Atualização do projeto no GitHab                 |❌ |
+|  2  |Atualização do projeto no Jita Software          |❌ |
+|  3  |Inicio dos painéis do banco de dados             |❌ |
+|  4  |Desenvolvimento Dashboard das telas do Power Bi  |❌ |
+|  5  |Desenvolvimeto da tela inicial do Power Bi       |❌ |
+|  6  |Iniciar os calculos de custo de transporte       |❌ |
+|  7  |Atualização do retatório técnico                 |❌ |
+
+
+
 
 → [Voltar ao topo](#topo)
 
