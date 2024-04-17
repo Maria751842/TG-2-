@@ -63,7 +63,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |:---:|:-----------------------------------------:|:----:|
 |  1  |Definição das users stories                |  ✅  |
 |  2  |Implementação do projeto no GitHab         |  ✅  |
-|  3  |Implementação do projeto no Jira Software  |  ✅  |
+|  3  |Implementação  no Jira Software            |  ✅  |
 |  4  |Inicio da análise dos dados obtidos        |  ✅  |
 |  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
 |  6  |Inicio do relatório técnico                |  ✅  |
@@ -74,7 +74,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Atualização do projeto no GitHab                 |❌ |
-|  2  |Atualização do projeto no Jita Software          |❌ |
+|  2  |Atualização no Jita Software                     |❌ |
 |  3  |Inicio dos painéis do banco de dados             |❌ |
 |  4  |Desenvolvimento Dashboard das telas do Power Bi  |❌ |
 |  5  |Desenvolvimeto da tela inicial do Power Bi       |❌ |
@@ -85,7 +85,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Atualização do projeto no GitHab                 |❌ |
-|  2  |Atualização do projeto no Jira Software          |❌ |
+|  2  |Atualização no Jira Software                     |❌ |
 |  3  |Criar o banco de dados em SQL                    |❌ |
 |  4  |Atualização no Power Bi                          |❌ |
 |  5  |Inicio das analise em Python                     |❌ |
@@ -96,7 +96,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Finalização do projeto no GitHab                 |❌ |
-|  2  |Finalização do projeto no Jira Software          |❌ |
+|  2  |Finalização no Jira Software                     |❌ |
 |  3  |Ajustes necessarios no projeto                   |❌ |
 |  4  |Finalização do relatório técnico                 |❌ |
 
@@ -115,7 +115,6 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 | Power bi               | ⭐⭐⭐⭐⭐    |
 
 
- 
 
 <span id="tecnologias">
 
