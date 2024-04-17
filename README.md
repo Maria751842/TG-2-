@@ -69,6 +69,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 
 ## - Detalhamento da Sprint 2
+
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Atualização do projeto no GitHab                 |❌ |
@@ -76,13 +77,43 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  3  |Inicio dos painéis do banco de dados             |❌ |
 |  4  |Desenvolvimento Dashboard das telas do Power Bi  |❌ |
 |  5  |Desenvolvimeto da tela inicial do Power Bi       |❌ |
-|  6  |Iniciar os calculos de custo de transporte       |❌ |
-|  7  |Atualização do retatório técnico                 |❌ |
+|  6  |Inicio do desenvolvimento da otimização          |❌ |
+|  7  |Atualização do relatório técnico                 |❌ |
 
+## - Detalhamento da Sprint 3
+|Item | Planejamento | Status|
+|:---:|:----------------------------------------------:|:----:|
+|  1  |Atualização do projeto no GitHab                 |❌ |
+|  2  |Atualização do projeto no Jira Software          |❌ |
+|  3  |Criar o banco de dados em SQL                    |❌ |
+|  4  |Atualização no Power Bi                          |❌ |
+|  5  |Inicio das analise em Python                     |❌ |
+|  6  |Atualização do relatório técnico                 |❌ |
 
+## - Detalhamento da Sprint 4
 
+|Item | Planejamento | Status|
+|:---:|:----------------------------------------------:|:----:|
+|  1  |Finalização do projeto no GitHab                 |❌ |
+|  2  |Finalização do projeto no Jira Software          |❌ |
+|  3  |Ajustes necessarios no projeto                   |❌ |
+|  4  |Finalização do relatório técnico                 |❌ |
 
 → [Voltar ao topo](#topo)
+
+
+
+
+|Tecnologia              | Planejamento     | 
+|:----------------------:|:----------------:|
+| Jira Software          |⭐⭐⭐⭐⭐     |
+| GitHub                 |⭐⭐⭐⭐⭐⭐⭐|
+| Python                 |⭐⭐⭐⭐⭐     |
+| SQL                    |⭐⭐⭐⭐        |
+| Power bi               | ⭐⭐⭐⭐⭐    |
+
+
+ 
 
 <span id="tecnologias">
 
