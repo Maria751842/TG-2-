@@ -62,7 +62,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |Item | Planejamento | Status|
 |:---:|:-----------------------------------------:|:----:|
 |  1  |Definição das users stories                |  ✅  |
-|  2  |Implementação do projeto no GitHab         |  ✅  |
+|  2  |Implementação do projeto no GitHub         |  ✅  |
 |  3  |Implementação  no Jira Software            |  ✅  |
 |  4  |Inicio da análise dos dados obtidos        |  ✅  |
 |  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
@@ -73,7 +73,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Atualização do projeto no GitHab                 |❌ |
+|  1  |Atualização do projeto no GitHub                 |❌ |
 |  2  |Atualização no Jita Software                     |❌ |
 |  3  |Inicio dos painéis do banco de dados             |❌ |
 |  4  |Desenvolvimento Dashboard das telas do Power Bi  |❌ |
@@ -84,7 +84,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ## - Detalhamento da Sprint 3
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Atualização do projeto no GitHab                 |❌ |
+|  1  |Atualização do projeto no GitHub                 |❌ |
 |  2  |Atualização no Jira Software                     |❌ |
 |  3  |Criar o banco de dados em SQL                    |❌ |
 |  4  |Atualização no Power Bi                          |❌ |
@@ -95,7 +95,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Finalização do projeto no GitHab                 |❌ |
+|  1  |Finalização do projeto no GitHub                 |❌ |
 |  2  |Finalização no Jira Software                     |❌ |
 |  3  |Ajustes necessarios no projeto                   |❌ |
 |  4  |Finalização do relatório técnico                 |❌ |
