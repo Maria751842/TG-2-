@@ -12,6 +12,7 @@
     <a href="#backlogs">Backlogs, Épicos & User Stories</a> &nbsp |&nbsp &nbsp  
     <a href="Planejamento">Planejamento das Sprint</a>
     <a href="#tecnologias">Tecnologias</a>  &nbsp |&nbsp &nbsp 
+    <a href="#hard skill">Hard Skill</a>  &nbsp |&nbsp &nbsp 
     <a href="#equipe">Equipe</a>
 </p>
 
@@ -101,8 +102,9 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 → [Voltar ao topo](#topo)
 
+<span id="hard skill">
 
-
+## Hard Skill
 
 |Tecnologia              | Planejamento     | 
 |:----------------------:|:----------------:|
