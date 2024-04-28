@@ -75,7 +75,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 ![Trabalhos realizados](./assets/apresentacao_projeto_python.gif)
-<video src="./assets/apresentacao_projeto_python.gif" controls></video>
+<img src="./assets/apresentacao_projeto_python.gif"/>
 
 ## - Detalhamento da Sprint 2
 
