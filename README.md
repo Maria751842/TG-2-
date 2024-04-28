@@ -71,10 +71,10 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ### - Demonstração Sprint 1
 
 - Trabalhos realizados:
-![Teste](./assets/apresentacao_projeto.gif)
+![Teste](./assets/apresentacao_projeto.gif){loop=""}
 
 - Execução do código Python:
-![Teste](./assets/apresentacao_projeto_python.gif)
+![Teste](./assets/apresentacao_projeto_python.gif){loop=""}
 
 ## - Detalhamento da Sprint 2
 
