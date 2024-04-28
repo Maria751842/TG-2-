@@ -38,9 +38,9 @@ A partir da apresentação do desafio apresentado pelo cliente, será desenvolvi
 
 Cada entrega foi realizada mediante a criação de uma tag em cada repositório, juntamente com a abertura de uma branch nesses repositórios contendo um relatório abrangente de todos os desenvolvimentos realizados naquela sprint. Veja a relação a seguir:
 
-| Sprint | Previsão de Entrega     | Status | Histórico |
+| Sprint | Previsão de Entrega     | Status | Relatório |
 |:------:|:-----------------------:|:------:|:---------:|
-| 1 | 17/04/2024 | Concluída  ✅   | -- |
+| 1 | 17/04/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
 | 2 | 08/05/2024 | Não Inciado     | -- |
 | 3 | 29/05/2024 | Não Iniciado    | -- |
 | 4 | 19/06/2024 | Não Iniciado    | -- |
@@ -52,7 +52,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 <span id="backlogs">
 
-## :dart: Backlogs, Épicos & User Stories
+## :dart: Backlogs, Épicos &
 
 ![Mood Nem Route](./assets/BACLOGS.jpg)
 
@@ -68,6 +68,13 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
 |  6  |Inicio do relatório técnico                |  ✅  |
 
+### - Demonstração Sprint 1
+
+- Trabalhos realizados:
+![Teste](./assets/apresentacao_projeto.gif)
+
+- Execução do código Python:
+![Teste](./assets/apresentacao_projeto_python.gif)
 
 ## - Detalhamento da Sprint 2
 
@@ -111,8 +118,8 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 | Jira Software          |⭐⭐⭐⭐⭐     |
 | GitHub                 |⭐⭐⭐⭐⭐⭐⭐|
 | Python                 |⭐⭐⭐⭐⭐     |
-| SQL                    |⭐⭐⭐⭐        |
-| Power bi               | ⭐⭐⭐⭐⭐    |
+| SQL                    |⭐⭐⭐⭐       |
+| Power bi               |⭐⭐⭐⭐⭐     |
 
 
 
@@ -140,6 +147,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
+
+![Mood Nem Route](./assets/INTEGRANTES.jpg)
+
 
 |    Função     | Nome                                  | LinkedIn |
 | :-----------: | :-----------------------------------: | :------: |
