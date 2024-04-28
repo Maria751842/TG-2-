@@ -71,10 +71,11 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ### - Demonstração Sprint 1
 
 - Trabalhos realizados:
-![OMD, Teste](./assets/apresentacao_projeto.gif){loop=""}
+![Trabalhos realizados](./assets/apresentacao_projeto.gif)
 
 - Execução do código Python:
-![OMD, Teste](./assets/apresentacao_projeto_python.gif){loop=""}
+![Trabalhos realizados](./assets/apresentacao_projeto_python.gif)
+<video src="./assets/apresentacao_projeto_python.gif" controls></video>
 
 ## - Detalhamento da Sprint 2
 
