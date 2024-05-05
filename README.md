@@ -1,6 +1,4 @@
----
-output: html_document
----
+
 <span id="topo">
 
 <div align="center">
@@ -60,7 +58,10 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ![Mood Nem Route](./assets/BACLOGS.jpg)
 
 
-### Sprint 1
+## Demonstração das Sprints
+
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Sprint 1</summary>
 
 |Item | Planejamento | Status|
 |:---:|:-----------------------------------------:|:----:|
@@ -71,19 +72,16 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
 |  6  |Inicio do relatório técnico                |  ✅  |
 
-## - Demonstração das Sprints {.tabset}
-
-### Sprint 1
-
 - Trabalhos realizados:
 <img src="./assets/apresentacao_projeto.gif" loop/>
 
 - Execução do código Python:
 <img src="./assets/apresentacao_projeto_python.gif" loop/>
+</details>
+<br />
 
-→ [Voltar ao topo](#topo)
-
-### Sprint 2
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Sprint 2</summary>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -94,8 +92,12 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimeto da tela inicial do Power Bi       |✅ |
 |  6  |Inicio do desenvolvimento da otimização          |✅ |
 |  7  |Atualização do relatório técnico                 |✅ |
+</details>
+<br />
 
-### Sprint 3
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Sprint 3</summary>
+
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Atualização do projeto no GitHub                 |❌ |
@@ -104,8 +106,11 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  4  |Atualização no Power Bi                          |❌ |
 |  5  |Inicio das analise em Python                     |❌ |
 |  6  |Atualização do relatório técnico                 |❌ |
+</details>
+<br />
 
-### Sprint 4
+<details>
+  <summary style="font-weight: bold; cursor: pointer;">Sprint 4</summary>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -113,6 +118,8 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  2  |Finalização no Jira Software                     |❌ |
 |  3  |Ajustes necessarios no projeto                   |❌ |
 |  4  |Finalização do relatório técnico                 |❌ |
+</details>
+<br />
 
 → [Voltar ao topo](#topo)
 
@@ -166,3 +173,53 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Thalles Bruni Silva Corrêa            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
 → [Voltar ao topo](#topo)  
+
+<div class="tab">
+  <input type="radio" id="tab1" name="tabGroup1" class="tab-input" checked>
+  <label for="tab1" class="tab-label">Tab 1</label>
+  
+  <div class="tab-content">
+    Conteúdo da aba 1...
+  </div>
+</div>
+
+<div class="tab">
+  <input type="radio" id="tab2" name="tabGroup1" class="tab-input">
+  <label for="tab2" class="tab-label">Tab 2</label>
+  
+  <div class="tab-content">
+    Conteúdo da aba 2...
+  </div>
+</div>
+
+<style>
+.tab {
+  display: inline-block;
+}
+
+.tab-input {
+  display: none;
+}
+
+.tab-label {
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  background-color: #f1f1f1;
+}
+
+.tab-content {
+  display: none;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.tab-input:checked + .tab-label {
+  background-color: white;
+}
+
+.tab-input:checked + .tab-label + .tab-content {
+  display: block;
+}
+</style>
