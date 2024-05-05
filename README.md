@@ -61,7 +61,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ## Demonstração das Sprints
 
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Sprint 1</summary>
+  <summary><span style="font-weight: bold; cursor: pointer;">Sprint 1</span></summary>
 
 |Item | Planejamento | Status|
 |:---:|:-----------------------------------------:|:----:|
@@ -81,7 +81,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 <br />
 
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Sprint 2</summary>
+  <summary><span style="font-weight: bold; cursor: pointer;">Sprint 2</span></summary>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -96,7 +96,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 <br />
 
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Sprint 3</summary>
+  <summary><span style="font-weight: bold; cursor: pointer;">Sprint 3</span></summary>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -110,7 +110,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 <br />
 
 <details>
-  <summary style="font-weight: bold; cursor: pointer;">Sprint 4</summary>
+  <summary><span style="font-weight: bold; cursor: pointer;">Sprint 4</span></summary>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
