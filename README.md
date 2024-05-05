@@ -41,7 +41,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 | Sprint | Previsão de Entrega     | Status | Relatório |
 |:------:|:-----------------------:|:------:|:---------:|
 | 1 | 17/04/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
-| 2 | 08/05/2024 | Não Inciado     | -- |
+| 2 | 08/05/2024 | Concluída  ✅   | -- |
 | 3 | 29/05/2024 | Não Iniciado    | -- |
 | 4 | 19/06/2024 | Não Iniciado    | -- |
 
@@ -57,7 +57,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ![Mood Nem Route](./assets/BACLOGS.jpg)
 
 
-## - Detalhamento da Sprint 1
+### Sprint 1
 
 |Item | Planejamento | Status|
 |:---:|:-----------------------------------------:|:----:|
@@ -68,7 +68,9 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimento das telas do Power Bi      |  ✅  |
 |  6  |Inicio do relatório técnico                |  ✅  |
 
-### - Demonstração Sprint 1
+## - Demonstração das Sprints {.tabset}
+
+### Sprint 1
 
 - Trabalhos realizados:
 <img src="./assets/apresentacao_projeto.gif" loop/>
@@ -76,19 +78,21 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 - Execução do código Python:
 <img src="./assets/apresentacao_projeto_python.gif" loop/>
 
-## - Detalhamento da Sprint 2
+→ [Voltar ao topo](#topo)
+
+### Sprint 2
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Atualização do projeto no GitHub                 |❌ |
-|  2  |Atualização no Jita Software                     |❌ |
-|  3  |Inicio dos painéis do banco de dados             |❌ |
-|  4  |Desenvolvimento Dashboard das telas do Power Bi  |❌ |
-|  5  |Desenvolvimeto da tela inicial do Power Bi       |❌ |
-|  6  |Inicio do desenvolvimento da otimização          |❌ |
-|  7  |Atualização do relatório técnico                 |❌ |
+|  1  |Atualização do projeto no GitHub                 |✅ |
+|  2  |Atualização no Jita Software                     |✅ |
+|  3  |Inicio dos painéis do banco de dados             |✅ |
+|  4  |Desenvolvimento Dashboard das telas do Power Bi  |✅ |
+|  5  |Desenvolvimeto da tela inicial do Power Bi       |✅ |
+|  6  |Inicio do desenvolvimento da otimização          |✅ |
+|  7  |Atualização do relatório técnico                 |✅ |
 
-## - Detalhamento da Sprint 3
+### Sprint 3
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
 |  1  |Atualização do projeto no GitHub                 |❌ |
@@ -98,7 +102,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Inicio das analise em Python                     |❌ |
 |  6  |Atualização do relatório técnico                 |❌ |
 
-## - Detalhamento da Sprint 4
+### Sprint 4
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -139,9 +143,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/slack-blue?style=for-the-badge&logoColor=white&logo=github" alt="slack" />
 
 
-
-
-
 → [Voltar ao topo](#topo)
 
 <span id="equipe">
@@ -161,4 +162,4 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Mirella de Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
 |   Dev Team    | Thalles Bruni Silva Corrêa            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
-→ [Voltar ao topo](#topo)
+→ [Voltar ao topo](#topo)  
