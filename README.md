@@ -93,26 +93,24 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimeto da tela inicial do Power Bi       |✅ |
 |  6  |Inicio do desenvolvimento da otimização          |✅ |
 |  7  |Atualização do relatório técnico                 |✅ |
-</details>
-<br />
+
 
 - Execução do código Python:
 
-
-  <img src="./assets/CODIGOTESTE2.gif" loop/>
-
+<img src="./assets/CODIGOTESTE2.gif" loop/>
 
 
 - Execução do SQL
 
-  <img src="./assets/SQL.gif" loop/>
-
-
+<img src="./assets/SQL.gif" loop/>
 
 
 - Desenvolvimento do Power bi
 
 <img src="./assets/POWERBI-16.gif" loop/>
+
+</details>
+<br />
 
 <details>
   <summary><span style="font-weight: bold; cursor: pointer;">Sprint 3</span></summary>
