@@ -98,11 +98,18 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 
- <video src="./assets/CODIGOTESTE2.mp4" loop></video>
+<video width="320" height="240" controls loop autoplay>
+  <source src="./assets/CODIGOTESTE2.mp4" type="video/mp4">
+</video>
+
 
 - Execução do SQL
 
-<video src="./assets/SQL.mp4" loop></video>
+<video width="320" height="240" controls loop autoplay>
+  <source src="./assets/SQL.mp4" type="video/mp4">
+</video>
+
+
 
 - Desenvolvimento do Power bi
 
