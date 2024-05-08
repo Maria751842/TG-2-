@@ -98,16 +98,15 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 
-<video width="320" height="240" controls loop autoplay>
-  <source src="./assets/CODIGOTESTE2.mp4" type="video/mp4">
-</video>
+
+  <img src="./assets/CODIGOTESTE2.gif" loop/>
+
 
 
 - Execução do SQL
 
-<video width="320" height="240" controls loop autoplay>
-  <source src="./assets/SQL.mp4" type="video/mp4">
-</video>
+  <img src="./assets/SQL.gif" loop/>
+
 
 
 
