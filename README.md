@@ -42,7 +42,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 | Sprint | Previsão de Entrega     | Status | Relatório |
 |:------:|:-----------------------:|:------:|:---------:|
 | 1 | 17/04/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
-| 2 | 08/05/2024 | Concluída  ✅   | -- |
+| 2 | 08/05/2024 | Concluída  ✅   |[Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx)  |
 | 3 | 29/05/2024 | Não Iniciado    | -- |
 | 4 | 19/06/2024 | Não Iniciado    | -- |
 
@@ -108,6 +108,11 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 - Desenvolvimento do Power bi
 
 <img src="./assets/POWERBI-16.gif" loop/>
+
+
+- Planejamento no jira sotware
+
+<img src="./assets/PLANEJAMENTO.gif" loop/>
 
 </details>
 <br />
