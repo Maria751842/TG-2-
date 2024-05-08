@@ -77,6 +77,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 <img src="./assets/apresentacao_projeto_python.gif" loop/>
+
 </details>
 <br />
 
@@ -97,7 +98,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 
-<video src="./assets/CODIGOTESTE2.mp4" loop></video>
+ <video src="./assets/CODIGOTESTE2.mp4" loop></video>
 
 - Execução do SQL
 
@@ -105,7 +106,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Desenvolvimento do Power bi
 
-<img src="./assets/POWERBI-16.gif" alt="GIF animado do Power BI" /> 
+<img src="./assets/POWERBI-16.gif" loop/>
 
 <details>
   <summary><span style="font-weight: bold; cursor: pointer;">Sprint 3</span></summary>
