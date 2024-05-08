@@ -55,7 +55,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 ## :dart: Backlogs, Épicos &
 
-![Mood Nem Route](./assets/BACLOGS.jpg)
+![Mood Nem Route](./assets/LOGO2.jpg)
 
 
 ## Demonstração das Sprints
@@ -94,6 +94,18 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  7  |Atualização do relatório técnico                 |✅ |
 </details>
 <br />
+
+- Execução do código Python:
+
+<video src="./assets/CODIGOTESTE2.mp4" loop></video>
+
+- Execução do SQL
+
+<video src="./assets/SQL.mp4" loop></video>
+
+- Desenvolvimento do Power bi
+
+<img src="./assets/POWERBI-16.gif" alt="GIF animado do Power BI" /> 
 
 <details>
   <summary><span style="font-weight: bold; cursor: pointer;">Sprint 3</span></summary>
@@ -174,52 +186,4 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 → [Voltar ao topo](#topo)  
 
-<div class="tab">
-  <input type="radio" id="tab1" name="tabGroup1" class="tab-input" checked>
-  <label for="tab1" class="tab-label">Tab 1</label>
-  
-  <div class="tab-content">
-    Conteúdo da aba 1...
-  </div>
-</div>
 
-<div class="tab">
-  <input type="radio" id="tab2" name="tabGroup1" class="tab-input">
-  <label for="tab2" class="tab-label">Tab 2</label>
-  
-  <div class="tab-content">
-    Conteúdo da aba 2...
-  </div>
-</div>
-
-<style>
-.tab {
-  display: inline-block;
-}
-
-.tab-input {
-  display: none;
-}
-
-.tab-label {
-  cursor: pointer;
-  padding: 5px 10px;
-  border: 1px solid #ccc;
-  border-bottom: none;
-  background-color: #f1f1f1;
-}
-
-.tab-content {
-  display: none;
-  padding: 10px;
-  border: 1px solid #ccc;
-}
-
-.tab-input:checked + .tab-label {
-  background-color: white;
-}
-
-.tab-input:checked + .tab-label + .tab-content {
-  display: block;
-}
-</style>
