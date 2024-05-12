@@ -3,7 +3,7 @@ import numpy as np #operações matemáticas
 import matplotlib as plt #gráficos
 
 #define o caminho do arquivo do computador(onde estão osarquivos que quero abrir)
-File = r'.\dados\Dados API 6'
+File = "C:/Users/maria/OneDrive/Área de Trabalho/TG-2-/assets/codigo"
 
 #abre os arquivos necessários
 df = pd.read_csv(File+"/Rotas.csv", sep=',', decimal = '.')

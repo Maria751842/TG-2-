@@ -1,3 +1,48 @@
+<style>
+  details {
+    margin: 10px 0 0 0;
+    border: 1px solid #3c98c1; 
+    background-color: #fff;
+    border-radius: 5px;
+    transition: 0.2s background linear;
+  }
+  summary:hover {
+    background: #d4f2fb;
+  }
+  summary {
+    border-radius: 5px;
+    
+    padding: 8px 10px;
+    font-weight: bold;
+    font-size: 15px;
+    background: #b2d1df; 
+  }
+  small {
+    font-size: 11px;
+  }
+  summary::marker {
+    color: #517580;
+    font-size: 1.2em;
+  }
+  summary + *{
+    margin: 10px 15px 0 15px;
+    /* color: white;  */
+    
+    padding: 1px; 
+    border-radius: 5px;
+    background-color: #fff;
+
+  }
+  summary::after {
+    content: " (Clique para expandir)";
+    font-size: 11px;
+  }
+
+  details[open] summary::after {
+    content: " (Clique para fechar)";
+    font-size: 11px;
+  }
+</style>
 
 <span id="topo">
 
@@ -60,8 +105,9 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 ## Demonstração das Sprints
 
-<details>
-  <summary><span style="cursor: pointer;"><b>Sprint 1</b></span></summary>
+<details id="sprint-1">
+  <summary><span style="cursor: pointer;">Sprint 1</span></summary>
+<p>
 
 |Item | Planejamento | Status|
 |:---:|:-----------------------------------------:|:----:|
@@ -73,16 +119,19 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  6  |Inicio do relatório técnico                |  ✅  |
 
 - Trabalhos realizados:
-<img src="./assets/apresentacao_projeto.gif" loop/>
+<img src="./assets/gifs/apresentacao_projeto.gif" loop/>
 
 - Execução do código Python:
-<img src="./assets/apresentacao_projeto_python.gif" loop/>
+<img src="./assets/gifs/apresentacao_projeto_python.gif" loop/>
 
+  [(Voltar ao início)](#sprint-1)
+</p>
 </details>
 <br />
 
-<details>
-  <summary><span style="cursor: pointer;"><b>Sprint 2</b></span></summary>
+<details id="sprint-2">
+  <summary><span style="cursor: pointer;">Sprint 2</span></summary>
+<p>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -97,28 +146,30 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do código Python:
 
-<img src="./assets/CODIGOTESTE2.gif" loop/>
-
+<img src="./assets/gifs/CODIGOTESTE2.gif" loop/>
 
 - Execução do SQL
 
-<img src="./assets/SQL.gif" loop/>
+<img src="./assets/gifs/SQL.gif" loop/>
 
 
-- Desenvolvimento do Power bi
+- Desenvolvimento do Power BI
 
-<img src="./assets/POWERBI-16.gif" loop/>
+<img src="./assets/gifs/POWERBI-16.gif" loop/>
 
 
 - Planejamento no jira sotware
 
-<img src="./assets/PLANEJAMENTO.gif" loop/>
+<img src="./assets/gifs/PLANEJAMENTO.gif" loop/>
 
+  [(Voltar ao início)](#sprint-2)
+</p>
 </details>
 <br />
 
-<details>
-  <summary><span style="cursor: pointer;"><b>Sprint 3</b></span></summary>
+<details id="sprint-3">
+  <summary><span style="cursor: pointer;">Sprint 3</span></summary>
+<p>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -128,11 +179,15 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  4  |Atualização no Power Bi                          |❌ |
 |  5  |Inicio das analise em Python                     |❌ |
 |  6  |Atualização do relatório técnico                 |❌ |
+
+  [(Voltar ao início)](#sprint-3)
+</p>
 </details>
 <br />
 
-<details>
-  <summary><span style="cursor: pointer;"><b>Sprint 4</b></span></summary>
+<details id="sprint-4">
+  <summary><span style="cursor: pointer;">Sprint 4</span></summary>
+<p>
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
@@ -140,6 +195,9 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  2  |Finalização no Jira Software                     |❌ |
 |  3  |Ajustes necessarios no projeto                   |❌ |
 |  4  |Finalização do relatório técnico                 |❌ |
+
+  [(Voltar ao início)](#sprint-4)
+</p>
 </details>
 <br />
 
@@ -161,7 +219,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 <span id="tecnologias">
 
-## 🛠️ Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
@@ -194,6 +252,4 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Mirella de Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
 |   Dev Team    | Thalles Bruni Silva Corrêa            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
-→ [Voltar ao topo](#topo)  
-
-
+→ [Voltar ao topo](#topo)  
