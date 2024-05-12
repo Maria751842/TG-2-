@@ -1,48 +1,6 @@
-<style>
-  details {
-    margin: 10px 0 0 0;
-    border: 1px solid #3c98c1; 
-    background-color: #fff;
-    border-radius: 5px;
-    transition: 0.2s background linear;
-  }
-  summary:hover {
-    background: #d4f2fb;
-  }
-  summary {
-    border-radius: 5px;
-    
-    padding: 8px 10px;
-    font-weight: bold;
-    font-size: 15px;
-    background: #b2d1df; 
-  }
-  small {
-    font-size: 11px;
-  }
-  summary::marker {
-    color: #517580;
-    font-size: 1.2em;
-  }
-  summary + *{
-    margin: 10px 15px 0 15px;
-    /* color: white;  */
-    
-    padding: 1px; 
-    border-radius: 5px;
-    background-color: #fff;
-
-  }
-  summary::after {
-    content: " (Clique para expandir)";
-    font-size: 11px;
-  }
-
-  details[open] summary::after {
-    content: " (Clique para fechar)";
-    font-size: 11px;
-  }
-</style>
+<head>
+  <link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
+</head>
 
 <span id="topo">
 
@@ -122,7 +80,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 <img src="./assets/gifs/apresentacao_projeto.gif" loop/>
 
 - Execução do código Python:
-<img src="./assets/gifs/apresentacao_projeto_python.gif" loop/>
+<img src="./assets/apresentacao_projeto_python.gif" loop/>
 
   [(Voltar ao início)](#sprint-1)
 </p>
