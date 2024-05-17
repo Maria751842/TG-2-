@@ -1,8 +1,10 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="assets/css/estilo.css">
-</head>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./assets/css/estilo.css">
+  </head>
 
-<span id="topo">
+  <body>
+  <span id="topo">
 
 <div align="center">
 
@@ -210,4 +212,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |   Dev Team    | Mirella de Fátima dos Reis            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mirella-freis) |
 |   Dev Team    | Thalles Bruni Silva Corrêa            | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thallesbruni) |
 
-→ [Voltar ao topo](#topo)  
+→ [Voltar ao topo](#topo)
+
+  </body>
+</html>
