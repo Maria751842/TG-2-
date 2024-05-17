@@ -102,6 +102,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Desenvolvimeto da tela inicial do Power Bi       |✅ |
 |  6  |Inicio do desenvolvimento da otimização          |✅ |
 |  7  |Atualização do relatório técnico                 |✅ |
+|  8  |Criar o banco de dados em SQL                    |✅ |
 
 
 - Execução do código Python:
@@ -133,12 +134,12 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Atualização do projeto no GitHub                 |❌ |
-|  2  |Atualização no Jira Software                     |❌ |
-|  3  |Criar o banco de dados em SQL                    |❌ |
-|  4  |Atualização no Power Bi                          |❌ |
-|  5  |Inicio das analise em Python                     |❌ |
-|  6  |Atualização do relatório técnico                 |❌ |
+|  1  |Atualização do projeto no GitHub                 |✅ |
+|  2  |Atualização no Jira Software                     |✅ |
+|  3  |Desenvolvimento banco de dados em SQL            |✅ |
+|  4  |Atualização no Power Bi                          |✅ |
+|  5  |Atualização do Python                            |✅ |
+|  6  |Atualização do relatório técnico                 |✅ |
 
   [(Voltar ao início)](#sprint-3)
 </p>
