@@ -60,7 +60,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 ## :dart: Backlogs, Épicos &
 
-![Mood Nem Route](./assets/LOGO2.jpg)
+![Mood Nem Route](./assets/BAC.jpg)
 
 
 ## Demonstração das Sprints
