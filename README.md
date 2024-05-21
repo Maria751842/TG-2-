@@ -63,7 +63,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 ![Mood Nem Route](./assets/BAC.jpg)
 
 
-## Demonstração das Sprints
+## ✍ Demonstração das Sprints
 
 <details id="sprint-1">
   <summary><span style="cursor: pointer;">Sprint 1</span></summary>
@@ -166,7 +166,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 <span id="hard skill">
 
-## Hard Skill
+## 📊 Hard Skill
 
 |Tecnologia              | Planejamento     | 
 |:----------------------:|:----------------:|
