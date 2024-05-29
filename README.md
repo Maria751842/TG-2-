@@ -151,7 +151,12 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 - Execução do SQL:
 
+<img src="./assets/gifs/SQL3.gif" loop/>
 
+
+- Importação dos dados em SQL no Power Bi
+
+<img src="./assets/gifs/SQL E POWER BI.gif" loop/>
 
   [(Voltar ao início)](#sprint-3)
 </p>
