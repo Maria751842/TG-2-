@@ -145,10 +145,11 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 <img src="./assets/gifs/Sprint-3.gif" loop/>
 
-- Execução do SQL:
-
-
 - Desenvolvimento do Power BI:
+
+<img src="./assets/gifs/POWERBI3.gif" loop/>
+
+- Execução do SQL:
 
 
 

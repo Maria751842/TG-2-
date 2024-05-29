@@ -4,7 +4,8 @@ import matplotlib as plt #gráficos
 import pulp
 
 #define o caminho do arquivo do computador(onde estão osarquivos que quero abrir)
-File = 'C:/Users/maria/OneDrive/Área de Trabalho/TG-2-/assets/codigo'
+File = "C:/Users/maria/OneDrive/Área de Trabalho/TG-2-/assets/codigo"
+
 
 
 #abre os arquivos necessários
