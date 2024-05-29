@@ -141,6 +141,17 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  5  |Atualização do Python                            |✅ |
 |  6  |Atualização do relatório técnico                 |✅ |
 
+- Execução do código Python:
+
+<img src="./assets/gifs/Sprint-3.gif" loop/>
+
+- Execução do SQL:
+
+
+- Desenvolvimento do Power BI:
+
+
+
   [(Voltar ao início)](#sprint-3)
 </p>
 </details>
