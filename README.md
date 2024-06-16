@@ -174,6 +174,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |  3  |Ajustes necessarios no projeto                   |❌ |
 |  4  |Finalização do relatório técnico                 |❌ |
 
+
   [(Voltar ao início)](#sprint-4)
 </p>
 </details>
