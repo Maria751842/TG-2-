@@ -32,7 +32,7 @@ A partir da apresentação do desafio apresentado pelo cliente, será desenvolvi
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos._
 
-:pushpin: Status do Projeto: **Em Andamento** ⏰
+:pushpin: Status do Projeto: **Concluída** ✔
 
 → [Voltar ao topo](#topo)
 
@@ -48,8 +48,8 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 |:------:|:-----------------------:|:------:|:---------:|
 | 1 | 17/04/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
 | 2 | 08/05/2024 | Concluída  ✅   |[Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx)  |
-| 3 | 29/05/2024 | Concluída  ✅   | [Baixar Arquivo] |
-| 4 | 19/06/2024 | Não Iniciado    | -- |
+| 3 | 29/05/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
+| 4 | 19/06/2024 |  Concluída ✅   | [Baixar Arquivo] |
 
 → [Voltar ao topo](#topo)
 
@@ -169,11 +169,19 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 |Item | Planejamento | Status|
 |:---:|:----------------------------------------------:|:----:|
-|  1  |Finalização do projeto no GitHub                 |❌ |
-|  2  |Finalização no Jira Software                     |❌ |
-|  3  |Ajustes necessarios no projeto                   |❌ |
-|  4  |Finalização do relatório técnico                 |❌ |
+|  1  |Finalização do projeto no GitHub                 |✅|
+|  2  |Finalização no Jira Software                     |✅|
+|  3  |Ajustes necessarios no projeto                   |✅|
+|  4  |Finalização do relatório técnico                 |✅|
 
+- Importação dos dados em SQL no Power Bi:
+
+<img src="./assets/gifs/SQL4.gif" loop/>
+
+
+-Power Bi final:
+
+<img src="./assets/gifs/POWERBI4.gif" loop/>
 
   [(Voltar ao início)](#sprint-4)
 </p>
