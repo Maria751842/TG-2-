@@ -195,7 +195,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 - Otimização no Power Bi
 
 
-![Mood Nem Route](./assets/POWERBI.png)
+![Mood Nem Route](./assets/POWERBI2.png)
 
 → [Voltar ao topo](#topo)
 
