@@ -190,6 +190,15 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 
 → [Voltar ao topo](#topo)
 
+## ✨ Entrega Final
+
+- Otimização no Power Bi
+
+
+![Mood Nem Route](./assets/POWERBI.png)
+
+→ [Voltar ao topo](#topo)
+
 <span id="hard skill">
 
 ## 📊 Hard Skill
