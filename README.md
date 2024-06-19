@@ -49,7 +49,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 | 1 | 17/04/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
 | 2 | 08/05/2024 | Concluída  ✅   |[Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx)  |
 | 3 | 29/05/2024 | Concluída  ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.docx) |
-| 4 | 19/06/2024 |  Concluída ✅   | [Baixar Arquivo] |
+| 4 | 19/06/2024 |  Concluída ✅   | [Baixar Arquivo](./assets/Otimizacao_de_Rotas.pdf) |
 
 → [Voltar ao topo](#topo)
 
@@ -179,7 +179,7 @@ Cada entrega foi realizada mediante a criação de uma tag em cada repositório,
 <img src="./assets/gifs/SQL4.gif" loop/>
 
 
--Power Bi final:
+- Power Bi final:
 
 <img src="./assets/gifs/POWERBI4.gif" loop/>
 
